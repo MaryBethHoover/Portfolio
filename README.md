@@ -10,7 +10,6 @@ Python: classification (Lung Cancer)
          machine learning
 	random forest
 	XGBoostx
-Python: image recognition (fruits and vegetables)
 R: Clustering (us store)
 R: sentiment analysis (twitter us airline sentiment)
 

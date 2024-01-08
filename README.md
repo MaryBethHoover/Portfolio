@@ -9,3 +9,9 @@ Portfolio Classification.ipynb: Coding Language-Python
 	For the project, I perform exploratory data analysis and use SMOTE to oversample the minority class because the Lung Cancer status is imbalanced.
  	Classiciation is performed with logistic regression, K nearest neighbors, support vector machine classification, random forest, and XGBoost.
   	A summary report and ROC comparison is available at the end of the file. 
+
+RegressionProject.ipynb: Coding Language-R
+	The project utilizes data pertaining to Home Sales with variables such as lot size, zoning, frontage, location, neighborhood, condition, quality, material, year built, year remodeled, and many more.
+	For the project, I perform exploratory data analysis to evaluate the many numerical and categorical variables. Missing value imputation, factor collapsing, and other techniques are utilized to prepare the variables before modeling.
+ 	Random forest is utilized to predict the sale price of the house and variance inflation factor is plotted. 
+  The model's performance is evaluated over the test set using RMSE.
